@@ -1,7 +1,7 @@
 
-## Mail Service with FileUpload feature
+## Http Service with Mail Client and File Server feature
 
-This is a sample of Mail Service allowing you to send emails and also to upload file ang get its url to include it to your email as text url without file size hosting limitations.
+This is a sample of Http Service with Mail Client allowing you to send emails from your website and also it allows to upload and host file, get its url to include it to your email as text url without file size hosting limitations.
 
 ## Installation
 
